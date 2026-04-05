@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class LargestInArray {
+public class LargestInArray {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
